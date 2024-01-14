@@ -5,4 +5,4 @@
 -Used SQL lite library => https://www.vipm.io/package/drjdpowell_lib_sqlite_labview/
 
 -Create table if doesn't exist, if exist insert database.
-![](/Readme1.PNG)! ![](/Readme2.PNG)!
+![](/Readme1.PNG) ![](/Readme2.PNG)
